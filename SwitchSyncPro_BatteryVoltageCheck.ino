@@ -1,3 +1,9 @@
+// *****************************************************************
+// Code Created By: Abhishek Sebastian
+// Code Creation Date: October 28, 2023
+// Code Ownership: Abhira A.I
+// Unauthorized use or distribution of this code is strictly prohibited.
+// *****************************************************************
 #define VoltageCheckerPin 2 // Define GPIO 2 (A0) as VoltageCheckerPin
 
 void setup() 
