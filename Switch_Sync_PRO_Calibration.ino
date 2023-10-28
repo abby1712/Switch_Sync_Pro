@@ -1,3 +1,10 @@
+// *****************************************************************
+// Code Created By: Abhishek Sebastian
+// Code Creation Date: October 28, 2023
+// Code Ownership: Abhira A.I
+// Unauthorized use or distribution of this code is strictly prohibited.
+// *****************************************************************
+
 const int buttonPin1 = 3;  // GPIO3 for the button D1
 const int buttonPin2 = 4;  // GPIO4 for the button D2
 const int FMC = 21;  // GPIO21 for motor calibration D6 (FMC - Forward Motor Control)
